@@ -197,7 +197,7 @@
                     'ASP.NET/MVC 4 using C#, Razor, HTML5, CSS3, Bootstrap, and MSSQL.'
                 }]
             }, {
-                dates: 'April 2013 - June 2013',
+                dates: 'April 2013 - July 2013',
                 company: 'Rockit Media',
                 location: 'Denver, CO',
                 position: 'Business Development & Customer Support - contract',
