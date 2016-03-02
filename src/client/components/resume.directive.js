@@ -215,10 +215,11 @@
                 position: 'Director of Service Delivery',
                 projects: [{
                     name: '',
-                    description: 'Responsibilities included general business administration, ' +
+                    description: 'As Director of Service Delivery for the largest hospice pharmacy in Oklahoma, ' +
+                    'with annual revenue of over $3.6 million, I was responsible for general business administration, ' +
                     'office management, accounting, new customer acquisition, sales, marketing, ' +
-                    'and recruiting. Developed leadership skills through managing a pharmacy ' +
-                    'staff of 10 and a delivery staff of 15. Successfully managed 14 hospice ' +
+                    'and recruiting. I developed leadership skills through managing a pharmacy ' +
+                    'staff of ten and a delivery staff of fifteen. Successfully managed 14 hospice ' +
                     'accounts with a combined census of over 1,000 patients through effective ' +
                     'communication and training presentations for groups as large as 85.'
                 }]
