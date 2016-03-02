@@ -198,9 +198,9 @@
                 }]
             }, {
                 dates: 'April 2013 - July 2013',
-                company: 'Rockit Media',
+                company: 'Rockit Media - contract',
                 location: 'Denver, CO',
-                position: 'Business Development & Customer Support - contract',
+                position: 'Business Development & Customer Support',
                 projects: [{
                     name: '',
                     description: 'Provided business development and customer support for ' +
