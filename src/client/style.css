@@ -51,9 +51,9 @@ li {
   color: whitesmoke;
 }
 
-/* Currently */
+/* Summary */
 
-.current-pos {
+.summary {
   padding: 5%;
   text-align: center;
   font-size: large;
@@ -61,7 +61,7 @@ li {
   box-shadow: inset 0px 11px 10px -10px #CCC, inset 0px -11px 8px -10px #CCC;
 }
 
-.current-pos h3 {
+.summary h3 {
   font-weight: 200;
 }
 
