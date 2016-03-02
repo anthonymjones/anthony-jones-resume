@@ -1,8 +1,8 @@
-(function() {
-  'use strict';
-  
-  angular.module('app', [
-    'app.components',
-    'ui.bootstrap'
+(function () {
+    'use strict';
+
+    angular.module('app', [
+        'app.components',
+        'ui.bootstrap'
     ]);
 })();
