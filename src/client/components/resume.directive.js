@@ -219,7 +219,7 @@
                     'with annual revenue of over $3.6 million, I was responsible for general business administration, ' +
                     'office management, accounting, new customer acquisition, sales, marketing, ' +
                     'and recruiting. I developed leadership skills through managing a pharmacy ' +
-                    'staff of ten and a delivery staff of fifteen. Successfully managed 14 hospice ' +
+                    'staff of ten and a delivery staff of fifteen. Successfully managed fourteen hospice ' +
                     'accounts with a combined census of over 1,000 patients through effective ' +
                     'communication and training presentations for groups as large as 85.'
                 }]
