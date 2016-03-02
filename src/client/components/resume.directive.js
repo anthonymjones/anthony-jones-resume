@@ -161,14 +161,14 @@
         description: 'Collaborated with a team of ten developers, building an enterprise level ' +
         'survey and HR tool application. Along with one other developer, wrote componentized ' +
         'automated build and testing tasks using Gulp. Front end development was done in TypeScript ' +
-        'with AngularJS, styles were writted in Sass. For most of the project I worked on the backend,  ' +
+        'with AngularJS, styles were written in Sass. For most of the project I worked on the backend,  ' +
         'writing Node.js REST APIs and full CRUD services in TypeScript, as well writing SQL table ' +
         'creation statements and stored procedures. I also helped the lead developer/architect ' +
         'write and maintain UML design diagrams.'
       }, {
         id: 7,
         name: 'Alfred',
-        description: 'Worked with the Briebug team internally, writting AngularJS components, ' +
+        description: 'Worked with the Briebug team, writing AngularJS components, ' +
         'on Alfred - a suite of modules that can be used to manage a small to mid-sized company. ' +
         'This project was also a proof of concept for an AngularJS in TypeScript front end, ' +
         'Go and RethinkDB backend architecture.'
