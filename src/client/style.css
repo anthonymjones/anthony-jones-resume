@@ -1,10 +1,11 @@
-/* Styles go here */
+/* General */
 
 * {
   box-sizing: border-box;
 }
 
-*::-webkit-scrollbar {
+*::-webkit-scrollbar,
+*::-moz-scrollbar {
   display: none;
 }
 
@@ -16,10 +17,19 @@ body {
   overflow-x: hidden;
 }
 
+li {
+  list-style-type: none;
+  display: inline-block;
+}
+
+/* Header/Nav */
+
 .header-img {
   max-height: 25%;
   width: 100%;
 }
+
+/* Contact */
 
 .contact-title {
   font-size: xx-large;
@@ -41,6 +51,8 @@ body {
   color: whitesmoke;
 }
 
+/* Currently */
+
 .current-pos {
   padding: 5%;
   text-align: center;
@@ -53,21 +65,11 @@ body {
   font-weight: 200;
 }
 
-li {
-  list-style-type: none;
-  display: inline-block;
-}
-
 .link-icons {
   padding: 10px;
 }
 
-.prog-langs,
-.db-langs,
-.web-langs {
-  list-style-type: none;
-  display: inline-block;
-}
+/* Certifications */
 
 .certifications {
   padding: 5%;
@@ -91,6 +93,15 @@ li {
 
 .cert-item {
   padding: 2% 2%;
+}
+
+/* Technical Skills */
+
+.prog-langs,
+.db-langs,
+.web-langs {
+  list-style-type: none;
+  display: inline-block;
 }
 
 .techSkills {
@@ -152,6 +163,8 @@ li {
   overflow-x: scroll;
   overflow-y: hidden;
 }
+
+/* Professional Exp */
 
 .prof-exp {
   padding: 5%;
