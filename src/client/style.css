@@ -24,6 +24,15 @@ li {
 
 /* Header/Nav */
 
+.dropdown-menu-item a {
+    width: 200px;
+}
+
+.navbar-nav ul.dropdown-menu li a:hover {
+    background-color: #222222;
+    color: white;
+}
+
 .header-img {
   max-height: 25%;
   width: 100%;
