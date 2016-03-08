@@ -41,19 +41,19 @@
                 logo: 'http://i.stack.imgur.com/Mmww2.png'
             },
             {
-                name: 'NodeJs',
+                name: 'Node.js',
                 logo: 'http://tomnora.com/wp-content/uploads/2016/01/nodejs-logo.png'
             },
             {
-                name: 'JQuery',
+                name: 'jQuery',
                 logo: 'http://precision-software.com/wp-content/uploads/2014/04/jQurery.gif'
             },
             {
-                name: 'JQuery UI',
+                name: 'jQuery UI',
                 logo: 'http://mikederoche.com/images/logos/components/jqueryui.jpg'
             },
             {
-                name: 'HTML',
+                name: 'HTML5',
                 logo: 'https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png'
             },
             {
@@ -61,7 +61,7 @@
                 logo: 'https://avatars0.githubusercontent.com/u/9338635?v=3&s=400'
             },
             {
-                name: 'CSS',
+                name: 'CSS3',
                 logo: 'http://logonoid.com/images/css3-logo.png'
             },
             {
@@ -85,20 +85,20 @@
                 logo: 'https://www.socialbakers.com/edgerankchecker/blog/wp-content/uploads/2011/12/facebook-developers-logo1.png'
             },
             {
-                name: 'ASP.NET',
+                name: 'ASP.NET MVC',
                 logo: 'http://www-asp.azureedge.net/v-2016-02-22-001/images/ui/asplogo-square.png'
             },
             {
-                name: 'Ajax',
+                name: 'AJAX',
                 logo: 'http://almsoftsol.com/wp-content/uploads/2014/10/Navigation.png'
             }];
 
         vm.dbTools = [
             {
-                name: 'Mongo',
+                name: 'MongoDB',
                 logo: 'http://iscte.acm.org/wp-content/uploads/2015/02/mongodb-logo1.png'
             }, {
-                name: 'MySql',
+                name: 'MySQL',
                 logo: 'https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1280px-MySQL.svg.png'
             }, {
                 name: 'MS SQL Server',
