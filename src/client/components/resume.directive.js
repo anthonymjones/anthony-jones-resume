@@ -125,29 +125,27 @@
                     }, {
                         id: 2,
                         name: 'Fitness Heroes',
-                        description: 'Worked on Fitness Heroes app refactoring view/controllers ' +
-                        'into directives with encapsualted controllers controllers and applying ' +
-                        'best practices (John Papa). Wrote unit tests for new directives using ' +
-                        'Karma, achieving 100% code coverage.  Worked on bug fixes and new features ' +
-                        'using MongoDB, Express, AngularJS, NodeJS, JavaScript, and Bootstrap.  ' +
-                        'Wrote and maintained Protractor tests.'
+                        description: 'Refactored view/controllers into directives with encapsualted ' +
+                        'controllers controllers and applied best practices (John Papa). Wrote unit ' +
+                        'tests for new directives using Karma, achieving 100% code coverage. Worked ' +
+                        'on bug fixes and new features using MongoDB, Express, AngularJS, NodeJS, ' +
+                        'JavaScript, and Bootstrap. Wrote and maintained Protractor tests.'
                     }, {
                         id: 3,
                         name: 'RMExch',
-                        description: 'Worked on RMExch project converting offshore AngularJS ' +
-                        'development from views/controllers to directives with encapsulated ' +
-                        'controllers and applying best practices (John Papa). This travel ' +
-                        'based application allowed users to manage travel related media (images ' +
-                        'and video) into playlists and online presentations. Responsibilities ' +
-                        'included creating client side directives as well as server side node ' +
-                        'JavaScript for models, services, and routes.'
+                        description: 'Converted offshore AngularJS development from views/controllers ' +
+                        'to directives with encapsulated controllers and applying best practices ' +
+                        '(John Papa). This travel based application allows users to manage travel ' +
+                        'related media (images and video) into playlists and online presentations. ' +
+                        'Responsibilities included creating client side directives as well as server ' + 
+                        'side node JavaScript for models, services, and routes.'
                     }, {
                         id: 4,
                         name: 'Street Sweep Alert',
-                        description: 'Independently developed BrieBug’s new Street Sweep Alert app ' +
-                        'to compete with the City and County of Denver (pocket.gov). This ' +
+                        description: 'Independently developed BrieBug’s Street Sweep Alert app ' +
+                        'to compete with the City and County of Denver (pocketgov). This ' +
                         'application is built using AngularJS best practices (John Papa) and ' +
-                        'componentized directives. I was responsible for taking stories from ' +
+                        'componentized directives. Responsible for taking stories from ' +
                         'Jira and creating the necessary directives to support the functionality ' +
                         'in each story. I was also responsible for creating and maintaining server ' +
                         'side node JavaScript that includes Mongoose models, routes, and services.'
@@ -158,24 +156,24 @@
                         'manage data used in the Sizet Mobile app - a reference "bible" for interior ' +
                         'designers, containing most every spec and industry regulation. This app ' +
                         'was built in MEAN Stack, using gulp for automated task management, and less ' +
-                        'as the css preprocessor. I met with the client on a weekly basis, to discuss ' +
-                        'work done during the current sprint and plan future sprints.'
+                        'as the css preprocessor. Met with the client on a weekly basis, to discuss ' +
+                        'project status updates and collaborative planning of future sprints.'
                     }, {
                         id: 6,
                         name: 'PDP Global',
                         description: 'Collaborated with a team of ten developers, building an enterprise level ' +
-                        'survey and HR tool application. Along with one other developer, wrote componentized ' +
-                        'automated build and testing tasks using Gulp. Front end development was done in TypeScript ' +
-                        'with AngularJS, styles were written in Sass. For most of the project I worked on the backend,  ' +
-                        'writing Node.js REST APIs and full CRUD services in TypeScript, as well writing SQL table ' +
-                        'creation statements and stored procedures. I also helped the lead developer/architect ' +
-                        'write and maintain UML design diagrams.'
+                        'survey and HR tool application. Wrote componentized automated build and testing tasks ' +
+                        'using Gulp. Front end development was written in TypeScript with AngularJS, styles were ' +
+                        'written in Sass. Primary project contributions centered around the backend, writing Node.js ' +
+                        'REST APIs and full CRUD services in TypeScript, as well writing SQL table creation ' +
+                        'statements and stored procedures. Provided direct support to the lead developer/architect ' +
+                        'writing and maintaining UML design diagrams.'
                     }, {
                         id: 7,
                         name: 'Alfred',
                         description: 'Worked with the Briebug team, writing AngularJS components, ' +
-                        'on Alfred - a suite of modules that can be used to manage a small to mid-sized company. ' +
-                        'This project was also a proof of concept for an AngularJS in TypeScript front end, ' +
+                        'on Alfred - a suite of modules utilized for management of a small to mid-sized company. ' +
+                        'This project doubled as a proof of concept for an AngularJS in TypeScript front end, ' +
                         'Go and RethinkDB backend architecture.'
                     }, {
                         id: 8,
@@ -192,7 +190,7 @@
                     name: '',
                     description: 'A three-month contract collaborating with SeedPaths’ ' +
                     'senior developer on a new Administration and Student Portal Site ' +
-                    'for their software boot camp. I also built the Application ' +
+                    'for their software boot camp. Personally built the Application ' +
                     'Assessment on their main site. These were all written in ' +
                     'ASP.NET/MVC 4 using C#, Razor, HTML5, CSS3, Bootstrap, and MSSQL.'
                 }]
@@ -205,7 +203,7 @@
                     name: '',
                     description: 'Provided business development and customer support for ' +
                     'a tech startup, which built mobile web applications for companies ' +
-                    'to engage their event guests. Facilitated sponsorship packages and ' +
+                    'to engage event guests. Facilitated sponsorship packages and ' +
                     'educated event guests how to best use the apps.'
                 }]
             }, {
