@@ -138,6 +138,7 @@ li {
 
 .web-langs img {
   width: 75px;
+  max-height: 75px;
 }
 
 .pl-icons {
