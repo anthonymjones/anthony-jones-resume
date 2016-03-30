@@ -70,7 +70,7 @@
             },
             {
                 name: 'Less',
-                logo: 'http://a4.files.readwrite.com/image/upload/c_fit,cs_srgb,w_620/MTIyNDM0NjY3MjIyNjkxMDk3.png'
+                logo: 'http://www.pierrevieville.fr/wp-content/uploads/2015/01/LESS_Logo-570x425.png?08d4c1'
             },
             {
                 name: 'Bootstrap',
