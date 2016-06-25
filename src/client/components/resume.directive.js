@@ -28,7 +28,7 @@
                 logo: 'https://s3.amazonaws.com/ionic-marketplace/typescript-starter/icon.png'
             }, {
                 name: 'C#',
-                logo: 'http://jeroendj.be/assets/img/Icons/c.ico'
+                logo: 'https://raw.githubusercontent.com/sschmid/Entitas-CSharp/develop/Readme/Images/csharp.png'
             }];
 
         vm.webLangs = [
@@ -82,7 +82,7 @@
             },
             {
                 name: 'Facebook API',
-                logo: 'https://www.socialbakers.com/edgerankchecker/blog/wp-content/uploads/2011/12/facebook-developers-logo1.png'
+                logo: 'http://link.highedweb.org/files/Facebook-logo.png'
             },
             {
                 name: 'ASP.NET MVC',
