@@ -110,7 +110,23 @@
 
         vm.professionalExp = [
             {
-                dates: 'January 2015 - Present',
+                dates: 'April 2016 - Present',
+                company: 'PlayerLync',
+                location: 'Centennial, CO',
+                position: 'UI/UX Developer',
+                projects: [{
+                    name: '',
+                    description: 'Currently developing the first ever device agnostic web ' +
+                    'app version of PlayerLync’s world class Mobile Content Management ' +
+                    'platform, used by organizations such as the Denver Broncos, San Francisco ' +
+                    'Giants, Chipotle, Bridgestone, Lexus, and more. I work closely with other ' +
+                    'front and back end developers, as well as QA and UI/UX Design, ' +
+                    'collaborating with our stakeholders to deliver an excellent product ' +
+                    'that lives up to the PlayerLync brand.'
+                }]
+            },
+            {
+                dates: 'January 2015 - April 2016',
                 company: 'Briebug Software',
                 location: 'Lakewood, CO',
                 position: 'Software Engineer',
